@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-26T22:03:10.469Z",
+  "checked_at": "2026-10-27T01:08:10.600Z",
   "source_url": "https://www.nhc.noaa.gov/CurrentStorms.json",
   "activeStorms": [
     {
@@ -248,8 +248,8 @@
     "smn_source_url": "https://smn.conagua.gob.mx/es/ciclones-tropicales/temporada-ciclones-tropicales-2026",
     "sshws_source_url": "https://www.nhc.noaa.gov/aboutsshws.php",
     "season_source_url": "https://www.nhc.noaa.gov/climo/",
-    "source_checked_date": "2026-10-26",
-    "checked_at": "2026-10-26T22:03:10.469Z",
+    "source_checked_date": "2026-10-27",
+    "checked_at": "2026-10-27T01:08:10.600Z",
     "schedule": {
       "mode": "escalated",
       "fetches_per_day": 4,
