@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-27T04:02:23.240Z",
+  "checked_at": "2026-10-27T07:10:48.088Z",
   "source_url": "https://www.nhc.noaa.gov/CurrentStorms.json",
   "activeStorms": [
     {
@@ -249,7 +249,7 @@
     "sshws_source_url": "https://www.nhc.noaa.gov/aboutsshws.php",
     "season_source_url": "https://www.nhc.noaa.gov/climo/",
     "source_checked_date": "2026-10-27",
-    "checked_at": "2026-10-27T04:02:23.240Z",
+    "checked_at": "2026-10-27T07:10:48.088Z",
     "schedule": {
       "mode": "escalated",
       "fetches_per_day": 4,
