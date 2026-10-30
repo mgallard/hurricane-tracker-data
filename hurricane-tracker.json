@@ -1,142 +1,8 @@
 {
-  "checked_at": "2026-10-30T10:09:03.766Z",
+  "checked_at": "2026-10-30T13:08:03.652Z",
   "source_url": "https://www.nhc.noaa.gov/CurrentStorms.json",
-  "activeStorms": [
-    {
-      "id": "ep222026",
-      "binNumber": "EP2",
-      "name": "Vance",
-      "classification": "PTC",
-      "intensity": "25",
-      "pressure": "1008",
-      "latitude": "20.7N",
-      "longitude": "107.7W",
-      "latitudeNumeric": 20.7,
-      "longitudeNumeric": -107.7,
-      "movementDir": 20,
-      "movementSpeed": 8,
-      "lastUpdate": "2026-10-30T03:00:00.000Z",
-      "publicAdvisory": {
-        "advNum": "035",
-        "issuance": "2026-10-30T03:00:00.000Z",
-        "fileUpdateTime": "2026-10-30T02:31:57.093Z",
-        "url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml"
-      },
-      "forecastAdvisory": {
-        "advNum": "035",
-        "issuance": "2026-10-30T03:00:00.000Z",
-        "fileUpdateTime": "2026-10-30T02:31:57.096Z",
-        "url": "https://www.nhc.noaa.gov/text/MIATCMEP2.shtml"
-      },
-      "windSpeedProbabilities": {
-        "advNum": "035",
-        "issuance": "2026-10-30T03:00:00.000Z",
-        "fileUpdateTime": "2026-10-30T02:32:31.676Z",
-        "url": "https://www.nhc.noaa.gov/text/MIAPWSEP2.shtml"
-      },
-      "forecastDiscussion": {
-        "advNum": "035",
-        "issuance": "2026-10-30T03:00:00.000Z",
-        "fileUpdateTime": "2026-10-30T02:33:03.122Z",
-        "url": "https://www.nhc.noaa.gov/text/MIATCDEP2.shtml"
-      },
-      "forecastGraphics": {
-        "advNum": "035",
-        "issuance": "2026-10-30T03:00:00.000Z",
-        "fileUpdateTime": "2026-10-30T02:31:57.093Z",
-        "url": "https://www.nhc.noaa.gov/graphics_ep2.shtml"
-      },
-      "forecastTrack": {
-        "advNum": "035",
-        "issuance": "2026-10-30T03:00:00.000Z",
-        "fileUpdateTime": "2026-10-30T02:34:08.474Z",
-        "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_035.zip",
-        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_035adv_TRACK.kmz"
-      },
-      "windWatchesWarnings": null,
-      "trackCone": {
-        "advNum": "035",
-        "issuance": "2026-10-30T03:00:00.000Z",
-        "fileUpdateTime": "2026-10-30T02:34:02.901Z",
-        "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_035.zip",
-        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_035adv_CONE.kmz"
-      },
-      "initialWindExtent": {
-        "advNum": "035",
-        "issuance": "2026-10-30T03:00:00.000Z",
-        "fileUpdateTime": "2026-10-30T02:34:37.321Z",
-        "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_035.zip",
-        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_initialradii_035adv.kmz"
-      },
-      "forecastWindRadiiGIS": {
-        "advNum": "035",
-        "issuance": "2026-10-30T03:00:00.000Z",
-        "fileUpdateTime": "2026-10-30T02:34:33.588Z",
-        "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_035.zip",
-        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_forecastradii_035adv.kmz"
-      },
-      "bestTrackGIS": {
-        "issuance": "2026-10-30T03:00:00.000Z",
-        "fileUpdateTime": "2026-10-30T02:34:17.555Z",
-        "zipFile": "https://www.nhc.noaa.gov/gis/best_track/ep222026_best_track.zip",
-        "kmzFile": "https://www.nhc.noaa.gov/gis/best_track/ep222026_best_track.kmz"
-      },
-      "earliestArrivalTimeTSWindsGIS": {
-        "advNum": "035",
-        "issuance": "2026-10-30T03:00:00.000Z",
-        "fileUpdateTime": "2026-10-30T02:34:04.781Z",
-        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_035adv_earliest_reasonable_toa_34.kmz"
-      },
-      "mostLikelyTimeTSWindsGIS": {
-        "advNum": "035",
-        "issuance": "2026-10-30T03:00:00.000Z",
-        "fileUpdateTime": "2026-10-30T02:34:06.632Z",
-        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_035adv_most_likely_toa_34.kmz"
-      },
-      "windSpeedProbabilitiesGIS": {
-        "issuance": "2026-10-30T00:00:00.000Z",
-        "fileUpdateTime": "2026-10-30T03:22:50.134Z",
-        "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026103000_wsp_120hr5km.zip",
-        "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026103000_wsp_120hrhalfDeg.zip",
-        "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026103000_wsp34knt120hr_5km.kmz",
-        "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026103000_wsp50knt120hr_5km.kmz",
-        "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026103000_wsp64knt120hr_5km.kmz"
-      },
-      "stormSurgeWatchWarningGIS": null,
-      "potentialStormSurgeFloodingGIS": null,
-      "peakSurgeKML": null
-    }
-  ],
-  "storms": [
-    {
-      "id": "ep222026",
-      "bin_number": "EP2",
-      "name": "Vance",
-      "classification": "PTC",
-      "category": null,
-      "intensity_kt": 25,
-      "pressure_mb": 1008,
-      "lat": 20.7,
-      "lon": -107.7,
-      "movement_dir_deg": 20,
-      "movement_speed_kt": 8,
-      "last_update": "2026-10-30T03:00:00.000Z",
-      "advisory_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "cone_url": "https://www.nhc.noaa.gov/storm_graphics/EP22/EP222026_5day_cone.png",
-      "distance_km": {
-        "pv": 257,
-        "cabo": 334
-      },
-      "bearing_from": {
-        "pv": "W",
-        "cabo": "SE"
-      },
-      "min_forecast_distance_km": {
-        "pv": 257,
-        "cabo": 219
-      }
-    }
-  ],
+  "activeStorms": [],
+  "storms": [],
   "meta": {
     "schema_version": "1.0.0",
     "source_name": "US National Hurricane Center (NOAA)",
@@ -145,20 +11,18 @@
     "sshws_source_url": "https://www.nhc.noaa.gov/aboutsshws.php",
     "season_source_url": "https://www.nhc.noaa.gov/climo/",
     "source_checked_date": "2026-10-30",
-    "checked_at": "2026-10-30T10:09:03.766Z",
+    "checked_at": "2026-10-30T13:08:03.652Z",
     "schedule": {
-      "mode": "escalated",
-      "fetches_per_day": 4,
+      "mode": "baseline",
+      "fetches_per_day": 2,
       "times_toronto": [
-        "00:00",
         "06:00",
-        "12:00",
         "18:00"
       ],
       "escalation_threshold_km": 500,
       "closest_approach_km": {
-        "pv": 257,
-        "cabo": 219
+        "pv": null,
+        "cabo": null
       }
     }
   }
